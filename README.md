@@ -1,2 +1,2 @@
 # Calculator-UI
-simple flutter ui
+simple calculator interface using flutter 
